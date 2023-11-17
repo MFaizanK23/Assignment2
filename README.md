@@ -1,4 +1,4 @@
-# Assignment2 Mobile
+# Distributed Assignment 2
 
 Calorie Counter App
 Made in Python using Flask
